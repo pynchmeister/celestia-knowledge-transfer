@@ -14,3 +14,6 @@ This is a repository for casual exploration into the world of the Celestia block
 #### Glossary
 
 * Erasure Coding - lorem ipsum
+* Fraud Proof(s) - lorem ipsum
+* Validity Proof(s) - lorem ipsum
+* Light Client - lorem ipsum
