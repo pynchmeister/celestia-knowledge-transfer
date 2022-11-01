@@ -5,6 +5,11 @@ This is a repository for casual exploration into the world of the Celestia block
 ## Open Questions
 
 * (TODO)
+* Are optimistic rollups centralized the existence of only one sequencer?
+* 
+
+<img width="870" alt="Screen Shot 2022-11-01 at 3 45 12 PM" src="https://user-images.githubusercontent.com/33232379/199324509-d0b35a84-aee6-457d-a24f-2d14735f53c9.png">
+
 
 ### Recommended Resources
 
@@ -17,3 +22,6 @@ This is a repository for casual exploration into the world of the Celestia block
 * Fraud Proof(s) - lorem ipsum
 * Validity Proof(s) - lorem ipsum
 * Light Client - lorem ipsum
+* ABCI-client - 
+* Rollmint - 
+* 
