@@ -22,6 +22,7 @@ This is a repository for casual exploration into the world of the Celestia block
 * Fraud Proof(s) - lorem ipsum
 * Validity Proof(s) - lorem ipsum
 * Light Client - lorem ipsum
-* ABCI-client - 
-* Rollmint - 
-* 
+* ABCI-client - lorem ipsum
+* [Rollmint](https://github.com/DED-EDU/rollmint) - lorem ipsum (private this repo and share with mentors)
+* [Celestia-node](https://github.com/DED-EDU/celestia-node) - lorem ipsum (private this repo and share with mentors)
+* [Celestia-core](https://github.com/DED-EDU/celestia-core) - lorem ipsum (private this repo and share with mentors)
