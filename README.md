@@ -4,9 +4,9 @@ This is a repository for casual exploration into the world of the Celestia block
 
 ## Open Questions
 
-* (TODO)
-* Are optimistic rollups centralized the existence of only one sequencer?
-* 
+* Describe sequencers generally and specifically within the context of optimistic rollups...
+* Are optimistic rollups centralized due to the existence of only one sequencer?
+* etc.
 
 <img width="870" alt="Screen Shot 2022-11-01 at 3 45 12 PM" src="https://user-images.githubusercontent.com/33232379/199324509-d0b35a84-aee6-457d-a24f-2d14735f53c9.png">
 
@@ -26,3 +26,4 @@ This is a repository for casual exploration into the world of the Celestia block
 * [Rollmint](https://github.com/DED-EDU/rollmint) - lorem ipsum (private this repo and share with mentors)
 * [Celestia-node](https://github.com/DED-EDU/celestia-node) - lorem ipsum (private this repo and share with mentors)
 * [Celestia-core](https://github.com/DED-EDU/celestia-core) - lorem ipsum (private this repo and share with mentors)
+* Sequencer - lorem ipsum
