@@ -5,7 +5,7 @@ This is a repository for casual exploration into the world of the Celestia block
 ## Open Questions
 
 * Describe sequencers generally and specifically within the context of optimistic rollups...
-* Are optimistic rollups centralized due to the existence of only one sequencer?
+* Are optimistic rollups centralized due to the existence of only one sequencer? Short answer: yes (!)
 * etc.
 
 <img width="870" alt="Screen Shot 2022-11-01 at 3 45 12 PM" src="https://user-images.githubusercontent.com/33232379/199324509-d0b35a84-aee6-457d-a24f-2d14735f53c9.png">
